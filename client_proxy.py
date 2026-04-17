@@ -67,7 +67,7 @@ def wire_decrypt(text: str) -> str:
 # ─────────────────────────────────────────────
 # CONFIG  ← replace SERVER_IP with your friend's LAN IP
 # ─────────────────────────────────────────────
-SERVER_IP   = "172.28.64.70"   # ← REPLACE THIS
+SERVER_IP   = "192.16.XX.XX"   # ← REPLACE THIS
 SMTP_PORT   = 2525
 POP3_PORT   = 1100
 API_PORT    = 8000
